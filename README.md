@@ -42,6 +42,11 @@ These preprocessing steps ensured a clean, well-structured dataset, primed for i
 
 ### **Visualization and Analysis in Power BI**
 
+Here is a snapshot of the dashboard:
+
+![Dashboard pic](https://github.com/user-attachments/assets/ef836488-2a3a-463e-9284-60ed34f35828)
+
+
 ## **Key Findings**
 
 1. **Overall Crime Statistics**
