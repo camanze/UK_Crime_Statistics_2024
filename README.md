@@ -46,47 +46,47 @@ These preprocessing steps ensured a clean, well-structured dataset, primed for i
 
 1. **Overall Crime Statistics**
 
-* A total of 5.83 million crimes were reported across 43 police counties and 332 cities in England and Wales in 2024.
+- A total of 5.83 million crimes were reported across 43 police counties and 332 cities in England and Wales in 2024.
 
-* The Metropolitan Police Service recorded the highest number of crimes, reporting 1.14 million incidents, which accounted for approximately 19.5% of all reported crimes.
+- The Metropolitan Police Service recorded the highest number of crimes, reporting 1.14 million incidents, which accounted for approximately 19.5% of all reported crimes.
 
-* Among cities, Birmingham (153K), Leeds (112K), and Westminster (105K) were identified as the top three cities with the highest number of reported crimes.
+- Among cities, Birmingham (153K), Leeds (112K), and Westminster (105K) were identified as the top three cities with the highest number of reported crimes.
 
 2. **Crime Categories and Trends**
 
-* Violence and sexual offences constituted the largest category, with 1.99 million reported cases, making up 34% of all crimes.
+- Violence and sexual offences constituted the largest category, with 1.99 million reported cases, making up 34% of all crimes.
 
-* Anti-social behavior (895K), shoplifting (481K), and criminal damage & arson (437K) were the next most prevalent crimes.
+- Anti-social behavior (895K), shoplifting (481K), and criminal damage & arson (437K) were the next most prevalent crimes.
 
-* Theft-related offences, including shoplifting (481K), other theft (420K), and vehicle crime (341K), remain a significant concern.
+- Theft-related offences, including shoplifting (481K), other theft (420K), and vehicle crime (341K), remain a significant concern.
 
-* A relatively lower number of cases were recorded in categories such as possession of weapons (53K) and bicycle theft (56K).
+- A relatively lower number of cases were recorded in categories such as possession of weapons (53K) and bicycle theft (56K).
 
 3. **Monthly Crime Trends**
 
-* Crime levels fluctuated throughout the year, with a peak in June (530K reported crimes).
+- Crime levels fluctuated throughout the year, with a peak in June (530K reported crimes).
 
-* Other high-crime months included April (521K) and August (516K), suggesting possible seasonal influences.
+- Other high-crime months included April (521K) and August (516K), suggesting possible seasonal influences.
 
-* The lowest crime rate was observed in December (438K), potentially due to increased law enforcement presence during the holiday season.
+- The lowest crime rate was observed in December (438K), potentially due to increased law enforcement presence during the holiday season.
 
 4. **Geographic Distribution of Crime**
 
-* London (Metropolitan Police Service) experienced the highest crime rate, accounting for nearly one-fifth of all reported crimes.
+- London (Metropolitan Police Service) experienced the highest crime rate, accounting for nearly one-fifth of all reported crimes.
 
-* Other high-crime counties included West Midlands Police (342K), West Yorkshire Police (309K), and Thames Valley Police (198K).
+- Other high-crime counties included West Midlands Police (342K), West Yorkshire Police (309K), and Thames Valley Police (198K).
 
-* Several cities and regions reported significantly lower crime levels, which may indicate effective law enforcement strategies or lower population density.
+- Several cities and regions reported significantly lower crime levels, which may indicate effective law enforcement strategies or lower population density.
 
 ## **Conclusions**
 
-* Urban areas are the primary hotspots for crime, with London, Birmingham, and Leeds reporting the highest number of incidents. This suggests a need for increased law enforcement presence and community engagement in these areas.
+- Urban areas are the primary hotspots for crime, with London, Birmingham, and Leeds reporting the highest number of incidents. This suggests a need for increased law enforcement presence and community engagement in these areas.
 
-* Violence and sexual offences remain a critical concern, highlighting the necessity for targeted intervention programs, victim support services, and preventive measures.
+- Violence and sexual offences remain a critical concern, highlighting the necessity for targeted intervention programs, victim support services, and preventive measures.
 
-* The spike in crime during summer months suggests the need for enhanced policing efforts during these periods to mitigate potential surges in criminal activity.
+- The spike in crime during summer months suggests the need for enhanced policing efforts during these periods to mitigate potential surges in criminal activity.
 
-* Shoplifting, vehicle crime, and burglary pose persistent challenges, calling for improved security infrastructure, surveillance, and crime deterrence strategies.
+- Shoplifting, vehicle crime, and burglary pose persistent challenges, calling for improved security infrastructure, surveillance, and crime deterrence strategies.
 
 ## **Recommendations**
 
