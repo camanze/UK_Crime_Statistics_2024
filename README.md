@@ -34,6 +34,10 @@ To ensure the dataset was properly structured and optimized for analysis, the fo
 
 - **Column Selection**: Only relevant columns were retained, eliminating unnecessary data.  
 - **Data Type Validation**: Each column’s data type was assessed and adjusted to ensure consistency and appropriateness.  
-- **Handling Missing Values**: All null values were addressed, resulting in a **complete dataset with no missing entries**.  
+- **Handling Missing Values**: All null values were addressed, resulting in a **complete dataset with no missing entries**.
+- **Creating a new column for "City"**: I used a DAX formula to extract the city names from the "LSOA name" column
+![DAX to get City Column](https://github.com/user-attachments/assets/ffad8441-ceca-4ad7-bc7d-08d59c91478f)
+
+
 
 These preprocessing steps ensured a clean, well-structured dataset, primed for in-depth analysis and visualization.
